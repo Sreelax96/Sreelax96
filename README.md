@@ -1,6 +1,6 @@
 # Hi, I'm Sreelakshmi 👋
 
-🔵 Aspiring Cybersecurity Professional | SOC Analyst & DFIR Enthusiast | Blue Team
+🔵 Infrastructure and Cybersecurity Professional | DFIR Enthusiast | Blue Team
 
 📍 Dubai, UAE
 
